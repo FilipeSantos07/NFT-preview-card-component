@@ -19,6 +19,7 @@ main {
     background: hsl(216, 50%, 16%);
     padding: 20px 20px 25px;
     border-radius: 10px;
+    box-shadow: 0 16px 40px hsl(217, 68%, 7%);
 }
 .container1 img {
     width: 14rem;
