@@ -6,7 +6,7 @@
 
 Nesse projeto eu repliquei o mais próximo possível o resultado final do card component! Gostei muito do resultado!
 
-[🔗 Clique aqui para acessar](https://filipesantos07.github.io/Portfolio/)
+[🔗 Clique aqui para acessar](https://filipesantos07.github.io/NFT-preview-card-component/)
 
 ## 🛠️ Tecnologias
 
