@@ -15,4 +15,4 @@ Nesse projeto eu repliquei o mais próximo possível o resultado final do card c
 
 ## 💛 Contato
 
-outerspaceguy@live.co.uk
+FilipeSantosEstudos1@gmail.com
